@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'aquí iriía el token del bot, el cual no puedo compartir',
+        token: 'aquí iría el token del bot, el cual no puedo compartir',
         prefix: '_',
         activity: 'Llorando en la llorería',
     },

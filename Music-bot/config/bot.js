@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'Nzk2MDc2OTU5NjgzMTgyNjcy.X_SqcQ.whl5TJBrP4us_XRd-Gghjga99ls',
+        token: 'aquí iriía el token del bot, el cual no puedo compartir',
         prefix: '_',
         activity: 'Llorando en la llorería',
     },

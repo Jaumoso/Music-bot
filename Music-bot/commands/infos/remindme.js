@@ -4,7 +4,7 @@ module.exports = {
     category: 'Infos',
     utilisation: '{prefix}remindme',
 
-    execute(client, message) {
+    execute(client, async message) {
         // accepted messages will be those from the same author, we compare IDs to make sure
         const filter = msg => msg.author.id == message.author.id;
         // Errors: ['time'] treats ending because of the time limit as an error

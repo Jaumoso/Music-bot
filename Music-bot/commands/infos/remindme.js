@@ -6,6 +6,6 @@ module.exports = {
 
     execute(client, message,args) {
         if (args.lenght == 0)
-            log(`aa`);
+            message.channel.send(`¿Qué quieres que te recuerde?`);
     },
 };

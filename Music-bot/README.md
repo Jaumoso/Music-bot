@@ -79,6 +79,12 @@ help, see the list of available commands.
 debug, see number of voice connections.
 ```
 
+### 🤣 Meme commands
+
+joke, te cuenta un chiste muy malo.
+roast, te insulta hasta la muerte.
+stroke, no lo se la verdad, no se que hace.
+
 ### 🏓 Utilities (to change the code)
 
 Find all the functions available on the official code [right here](https://github.com/Androz2091/discord-player).
